@@ -1,5 +1,3 @@
-# Untitled
-
 # Breakout Game with Computer Vision Paddle Control
 
 ## 📌 Problem Statement
@@ -18,20 +16,12 @@ The aim of this project is to develop a modern version of the classic Breakout g
 
 ## 🚀 Technologies Used
 
-![image.png](ReadMeImages/image.png)
-
-![image.png](ReadMeImages/image.png)
-
-![image.png](ReadMeImages/image.png)
-
-![4343555-removebg-preview-removebg-preview.png](ReadMeImages/image.png)
-
-Python
-
-- Pygame
-
-- OpenCV
-- MediaPipe
+<div style="display: flex; justify-content: space-between;">
+    <img src="ReadMeImages/image.png" alt="Image 1" style="width: 20%;">
+    <img src="ReadMeImages/image2.png" alt="Image 2" style="width: 20%;">
+    <img src="ReadMeImages/image1.png" alt="Image 3" style="width: 20%;">
+    <img src="ReadMeImages/4343555-removebg-preview-removebg-preview.png" alt="Image 4" style="width: 20%;">
+</div>
 
 ## 🏗️ Architecture
 
@@ -77,9 +67,9 @@ We designed a vision-based control mechanism for the Breakout game where the pla
 
 ## 📜 Credits
 
-Developed by [Your Name].
+Developed by Shaury R Srivastava.
 Inspired by the classic Breakout game, enhanced with modern AI-powered interaction.
 
 ## 📬 Contact
 
-For suggestions or contributions, feel free to reach out at [Your Contact Information].
+For suggestions or contributions, feel free to reach out at shauryrsrivastava@gmail.com
